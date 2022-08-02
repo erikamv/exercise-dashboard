@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "exercise-dashboard-production"
-  }
+    "default": "exercise-dashboard-production",
+    "staging": "exercise-dashboard-staging"
+  },
+  "targets": {},
+  "etags": {}
 }
